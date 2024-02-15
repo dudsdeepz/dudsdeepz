@@ -15,4 +15,4 @@ I'm [Your Name], a student at [42 Lisbon] pursuing a passion for [your field of 
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduarodr&show_icons=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudsdeepz&show_icons=true&hide=contribs,prs&theme=radical)
