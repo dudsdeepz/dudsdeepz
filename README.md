@@ -1,5 +1,3 @@
-I'm [Your Name], a student at [42 Lisbon] pursuing a passion for [your field of study or interest]. Welcome to my GitHub profile!
-
 ## About Me
 
 - 🎓 Currently studying at [42 Lisbon].
