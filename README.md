@@ -1,7 +1,6 @@
 ## About Me
 
 - 🎓 Currently studying at 42 Lisbon.
-- 💡 Exploring Game developing.
 - ♟️ Chess
 - 🌍 Living in portugal
    
